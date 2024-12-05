@@ -32,7 +32,7 @@ const Navbar = () => {
             href="#"
             className="mr-10 pb-4 xl:mr-[400px] relative"
           >
-            <img src="../../public/h.png"  className="w-10 h-10 md:w-14 md:h-14 lg:w-20 lg:h-20 rounded-full"  alt="" />
+            <img src="./h.png"  className="w-10 h-10 md:w-14 md:h-14 lg:w-20 lg:h-20 rounded-full"  alt="" />
           </a>
           <div className="md:hidden">
             <button
@@ -85,7 +85,7 @@ const Navbar = () => {
           </a>
           <a  className="hover:text-[#0ef] flex  pb-4 md:pb-0 lg:justify-between lg:gap-4 items-center">
           |<FaPhoneAlt className="ml-2" />
-             +881328458912
+          +8801911552422
           </a>
         </nav>
       </div>
