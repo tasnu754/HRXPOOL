@@ -42,7 +42,7 @@ const Team = () => {
                 </p>
               </div>
             </div>
-            <div 
+            {/* <div 
             data-aos="flip-right"
             data-aos-duration="2000"
             className="group relative item-center justify-center overflow-hidden cursor-pointer hover:shadow-xl hover:shadow-black/30 transition-shadow rounded-md">
@@ -56,8 +56,7 @@ const Team = () => {
               <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
               <div className="absolute inset-0  flex flex-col items-center justify-center px-4 text-center translate-y-[65%] group-hover:translate-y-0 transition-all">
                 <div>
-                  {/* <SiHomeadvisor className="text-5xl text-yellow-200"></SiHomeadvisor> */}
-                  {/* <LiaPlaceOfWorshipSolid className="text-5xl text-yellow-200"></LiaPlaceOfWorshipSolid> */}
+                  
                 </div>
                 <h1 className="text-2xl font-bold text-white">
                 Sumiul Haque
@@ -66,7 +65,7 @@ const Team = () => {
                   Independent Director of HRXPOOL <br /> Email: info@hrxpool.com
                 </p>
               </div>
-            </div>
+            </div> */}
             <div
             data-aos="flip-right"
             data-aos-duration="2000"
